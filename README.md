@@ -1,0 +1,1 @@
+docs/man/man1/python_truss.1.ronn
